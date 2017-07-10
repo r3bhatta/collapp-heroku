@@ -1,0 +1,5 @@
+{
+  "name": "Collapp",
+  "description": "--",
+  "addons": [ "heroku-postgresql" ]
+}
